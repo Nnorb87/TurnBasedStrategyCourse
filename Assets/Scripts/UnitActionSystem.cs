@@ -15,7 +15,6 @@ public class UnitActionSystem : MonoBehaviour
     [SerializeField] private LayerMask unitLayerMask;
 
     private void Awake(){
-        Debug.Log("There is more than one UnitActionSystem! " + transform + " - " + Instance);
         if (Instance != null){
             Debug.LogError("There is more than one UnitActionSystem! " + transform + " - " + Instance);
             Destroy(gameObject);
