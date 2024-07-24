@@ -1,0 +1,95 @@
+[33mcommit 433b00e03c0da9034321be6ed3e9f894d1d2e805[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Wed Jul 24 18:41:19 2024 +0200
+
+    Grid System
+
+[33mcommit 610d3c7e20b189a410a884bde4c10a71c481c9af[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Wed Jul 24 14:23:18 2024 +0200
+
+    Unit Selected Visual, Singleton
+
+[33mcommit 66369a4dffd9feb09b6384009b9e9c6f0665147f[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Wed Jul 24 13:46:01 2024 +0200
+
+    Unit Selected Visual, Events
+
+[33mcommit 6ba5c836415ce0d243e8f3a90caa27033992b2f1[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Wed Jul 24 13:23:45 2024 +0200
+
+    Unit Selection
+
+[33mcommit 3c2419296fbb507e0af15c9945c8e19119793a62[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Wed Jul 24 10:31:43 2024 +0200
+
+    Unit Rotate when Moving
+
+[33mcommit 6708e8c22eb18fa0376d7bc94b8f3624e7b95b46[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Wed Jul 24 10:21:02 2024 +0200
+
+    Unit Animator Paramteres
+
+[33mcommit 82055fb7f90ca3ba2fd5894ba4b32158eaba7d2e[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Tue Jul 23 12:30:46 2024 +0200
+
+    Unit Animator
+
+[33mcommit 1d77a2cf1ae700f8d74481a5b843d78034d15a0f[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Mon Jul 22 21:56:51 2024 +0200
+
+    Unit Animations Setup
+
+[33mcommit 8be2f3ab02bfbb0d31129982cb629f02055086dd[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Mon Jul 22 21:41:38 2024 +0200
+
+    Unit Click to Move
+
+[33mcommit fdd4abdf3a50acc388b5799c0f7a83f985a278db[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Mon Jul 22 21:34:39 2024 +0200
+
+    Public vs SerializeField Private
+
+[33mcommit e81731a2b0a5e471d1bef47a32c9831b0b3e88c7[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Sun Jul 21 19:24:41 2024 +0200
+
+    Mouse World Position
+
+[33mcommit 7fd447599c0c3420a2b35024ae36484a46caae52[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Sun Jul 21 18:16:49 2024 +0200
+
+    Mouse Raycast
+
+[33mcommit 8e1a91d6ca7171c48f7a3d595f46f667cc62c85d[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Thu Jul 18 16:43:42 2024 +0200
+
+    Unit Move
+
+[33mcommit fd95dc698e75aef995d7769411e06e2bb6bf89eb[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Thu Jul 18 11:09:32 2024 +0200
+
+    Unit Base Setup
+
+[33mcommit af76f3818c0bcf64934736bcf5bfd5f2d65f3c84[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Wed Jul 17 22:23:40 2024 +0200
+
+    Post Processing
+
+[33mcommit 17135af2f2b9baaf81ce7828c4e4743c49abd9fe[m
+Author: Nnorb87 <norbertnagy87@gmail.com>
+Date:   Tue Jul 16 15:55:48 2024 +0200
+
+    Initial commit

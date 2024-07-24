@@ -9,15 +9,18 @@ public class Unit : MonoBehaviour
     [SerializeField] private Animator unitAnimator;
     private Vector3 targetPosition;
 
-    private void Awake(){
+    private void Awake()
+    {
         targetPosition = transform.position;
     }
 
-    private void Update(){
+    private void Update()
+    {
 
 
         float stoppingDistance = .1f;
-        if ( Vector3.Distance(transform.position, targetPosition) > stoppingDistance){
+        if (Vector3.Distance(transform.position, targetPosition) > stoppingDistance)
+        {
             Vector3 moveDirection = (targetPosition - transform.position).normalized;
             float moveSpeed = 4f;
             transform.position += moveDirection * Time.deltaTime * moveSpeed;
@@ -26,12 +29,15 @@ public class Unit : MonoBehaviour
             transform.forward = Vector3.Lerp(transform.forward, moveDirection, Time.deltaTime * rotateSpeed);
 
             unitAnimator.SetBool("isWalking", true);
-        }   else {
-                unitAnimator.SetBool("isWalking", false);
-            }
+        }
+        else
+        {
+            unitAnimator.SetBool("isWalking", false);
+        }
     }
 
-    public void Move(Vector3 targetPosition){
+    public void Move(Vector3 targetPosition)
+    {
         this.targetPosition = targetPosition;
     }
 

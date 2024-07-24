@@ -8,11 +8,13 @@ public class MouseWorld : MonoBehaviour
 
     private static MouseWorld Instance;
 
-    private void Awake(){
+    private void Awake()
+    {
         Instance = this;
     }
 
-    public static Vector3 GetPosition(){
+    public static Vector3 GetPosition()
+    {
         Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
         Physics.Raycast(ray, out RaycastHit raycastHit, float.MaxValue, Instance.mousePlaneLayerMask);
         return raycastHit.point;
